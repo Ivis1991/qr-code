@@ -4,19 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
-
 ### Screenshot
 
-![](./../assets/Screenshot.png)
+![](assets/Screenshot.png)
 
 
 ### Links
