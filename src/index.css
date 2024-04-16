@@ -5,3 +5,8 @@
 img {
     border-radius: 5%;
   }
+
+  @font-face {
+    font-family: "Outfit";
+    src: url(https://fonts.google.com/specimen/Outfit);
+}

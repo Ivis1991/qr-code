@@ -12,6 +12,9 @@ module.exports = {
       colors: {
         "light-grey": "#D5E1EF",
       },
+      fontFamily: {
+        "Outfit": ["Outfit", "sans-serif"],
+      },
     },
   },
   plugins: [],
