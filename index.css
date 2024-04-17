@@ -2,11 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-img {
-    border-radius: 5%;
-  }
+@font-face {
+  font-family: "Outfit-Bold";
+  src: url(/assets/fonts/Outfit-Bold.ttf) format("ttf");
+}
 
-  @font-face {
-    font-family: "Outfit";
-    src: url(https://fonts.google.com/specimen/Outfit);
+@font-face {
+  font-family: "Outfit-Regular";
+  src: url(/assets/fonts/Outfit-Regular.ttf) format("ttf");
 }

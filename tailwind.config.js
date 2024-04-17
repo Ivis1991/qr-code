@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./*.{html,js}"],
   theme: {
     container: {
       screens: {
@@ -11,9 +11,12 @@ module.exports = {
     extend: {
       colors: {
         "light-grey": "#D5E1EF",
+        "dark-navy": "#1F314F",
+        "light-navy": "#7D889E",
       },
       fontFamily: {
-        "Outfit": ["Outfit", "sans-serif"],
+        'outfit-bold': ["Outfit-Bold", "sans-serif"],
+        'outfit-regular': ["Outfit-Regular", "sans-serif"],
       },
     },
   },
